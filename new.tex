@@ -1,34 +1,55 @@
-\documentclass{article}
-\usepackage{amsmath,amsfonts,amssymb}
-\usepackage{hyperref,authblk}
+\documentclass[a4paper,llpt]{amsart}
 
-%
-\newcommand*{\email}[1]{%
-    \normalsize\href{mailto:#1}{#1}\par
-    }
+\usepackage{amsmath,amsfonts,amssymb, amscd, amsaddr}
+\usepackage{hyperref}
 
-% \authorinfo{}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{thm}[theorem]{Theorem}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{claim}[theorem]{Claim}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
 
-% \collaboration
-\title{Example}
-\author{Example \\ \email{email@gmail.com}}
+\title{Some title}
+\author{Some author}
+\email{email@gmail.com}
 
 
 \begin{document}
-
 \maketitle
 
 \begin{abstract}
-    Lorem ipsum
+    Filler text
 \end{abstract}
 
-\section{s1}
+\section{Introduction}
 
-\section{s2}
+\begin{definition}
+    
+\end{definition}
+
+\begin{lemma}
+    
+\end{lemma}
+
+\begin{prop}
+
+\end{prop}
+\begin{proof}
+    
+\end{proof}
+\section{}
+
+\section{}
+
 
 
 \begin{thebibliography}
-    \endgroup{}
+    \bibliographystyle{amsalpha}
 \end{thebibliography}
 
 \end{document}
