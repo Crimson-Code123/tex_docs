@@ -2,6 +2,9 @@
 
 \usepackage{amsmath,amsfonts,amssymb, amscd, amsaddr, MnSymbol}
 \usepackage{hyperref}
+\usepackage{tikz}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{adigraph}
 
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem{thm}[theorem]{Theorem}
@@ -14,45 +17,94 @@
 \theoremstyle{definition}
 \newtheorem{definition}[theorem]{Definition}
 
-\title{Some title}
-\author{Some author}
-\email{email@gmail.com}
+\title{title}
+\author{author}
+% \email{@gmail.com}
+
 
 \begin{document}
+
 \begin{abstract}
-    Filler text
+    eorjgeo
 \end{abstract}
 
 \maketitle
 
 \section{Introduction}
+    ojgij
 
-
-\begin{definition}
-    
-\end{definition}
-
-\begin{definition}
-    
-\end{definition}
-
-\begin{definition}
-    
-\end{definition}
-
-
-\begin{lemma}
-    
-\end{lemma}
+\prop
 
 \begin{proof}
     
 \end{proof}
 
+asolidj
+
+
+\begin{center}
+	\NewAdigraph{grapha}{
+		0,red:-4,0;
+        1,red:2,0;
+    }{
+        0,1,blue:1:1;
+        1,0,blue:1:0;
+        0,0,blue:1:0;
+        1,1,blue:1:1;
+    }
+    \NewAdigraph{graphb}{
+		00,red:-4,0;
+        11,red:2,0;
+        01,red:-1,2;
+        10,red:-1,-2;
+    }{
+        00,01,blue:1:1;
+        10,00,blue:1:0;
+        01,10,blue:1:0;
+        11,10,blue:1:0;
+        01,11,blue:1:1;
+        00,00,blue:1:0;
+        11,11,blue:1:1;
+        10,01,blue:1:1;
+    }
+    \NewAdigraph{graphc}{
+		000,red:-4,0;
+        001,red:-3,2;
+        011,red:3,2;
+        111,red:4,0;
+        110,red:3,-3;
+        100,red:-3,-3;
+        010,red:-1,0;
+        101,red:1,0;
+    }{
+        000,001,blue:1:1;
+        000,000,blue:1:0;
+        001,011,blue:1:1;
+        001,010,blue:1:0;
+        100,000,blue:1:0;
+        100,001,blue:1:1;
+        011,110,blue:1:0;
+        011,111,blue:1:1;
+        111,110,blue:1:0;
+        111,111,blue:1:1;
+        110,101,blue:1:1;
+        110,100,blue:1:0;
+        010,101,blue:1:1;
+        010,100,blue:1:0;
+        101,010,blue:1:0;
+        101,011,blue:1:1;
+        001,011,blue:1:1;
+        001,010,blue:1:0;
+    }
+
+\begin{figure}
+	\graphc{}
+    \caption{}
+\end{figure}
+
+\end{center}
+
 \textbf{Acknowledgements}
-
-\section{}
-
 
 
 \bibliography{new}
