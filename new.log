@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.21)  6 NOV 2024 01:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.21)  6 NOV 2024 23:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -652,31 +652,27 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \myedgecounter=\count350
 \nodesNumber=\count351
 \nodesNumber=\count352
- ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) (./new.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 10.
-
-) [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./new.aux)
+ ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) ( FP-EQ? ) [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./new.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
  ***********
 Package rerunfilecheck Info: File `new.out' has not changed.
-(rerunfilecheck)             Checksum: 891840E6BF18873A0E92A5625054359A;215.
+(rerunfilecheck)             Checksum: 2F6503B31748E781B7E7681E68437D97;243.
  ) 
 Here is how much of TeX's memory you used:
- 24893 strings out of 474050
- 444761 string characters out of 5742269
+ 24890 strings out of 474050
+ 444662 string characters out of 5742269
  1958751 words of memory out of 5000000
- 46748 multiletter control sequences out of 15000+600000
- 568006 words of font info for 70 fonts, out of 8000000 for 9000
+ 46746 multiletter control sequences out of 15000+600000
+ 568167 words of font info for 71 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 102i,8n,107p,622b,1553s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on new.pdf (1 page, 87177 bytes).
+ 102i,8n,107p,622b,1555s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on new.pdf (1 page, 89097 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 29 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
