@@ -1,8 +1,8 @@
-PWD e:/papers/tex_docs
+PWD f:/papers/tex_docs
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT e:/papers/tex_docs/other.tex
+INPUT f:/papers/tex_docs/other.tex
 OUTPUT other.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/amscls/amsart.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/amscls/amsart.cls
