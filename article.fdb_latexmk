@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1735432248.03933 "/home/z/tex_docs/article.tex" "article.pdf" "article" 1735432248.76391 0
-  "/home/z/tex_docs/article.tex" 1735432247.62739 212 e85e7e17f85af58de4a31ec2bfc6f424 ""
+["pdflatex"] 1735649744.74754 "/home/z/tex_docs/article.tex" "article.pdf" "article" 1735649745.4247 0
+  "/home/z/tex_docs/article.tex" 1735649744.36509 221 8849bfb109e2ed3d1f758a65b442c277 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1246382020 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -32,6 +32,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolF5.tfm" 1177804218 928 f644ee8fd969b219a92d8ed9eb0c4b34 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolF6.tfm" 1177804218 928 45610d12be5578208a2b25524ddb18ac ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolF8.tfm" 1177804218 928 0e527254486d1fce95b15cf78ee2580a ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
@@ -54,8 +55,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734434865 5485709 8129e419010b46b234085a26866cdb87 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734434946 3343778 5d5cefbe820ca136eca3fee831948772 ""
   "/usr/local/texlive/2024/texmf.cnf" 1734434853.90051 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "article.aux" 1735432248.70039 279 8c459d49abebb002ef17797e16457554 "pdflatex"
-  "article.tex" 1735432247.62739 212 e85e7e17f85af58de4a31ec2bfc6f424 ""
+  "article.aux" 1735649745.37009 279 8c459d49abebb002ef17797e16457554 "pdflatex"
+  "article.tex" 1735649744.36509 221 8849bfb109e2ed3d1f758a65b442c277 ""
   (generated)
   "article.aux"
   "article.log"
