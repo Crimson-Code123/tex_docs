@@ -1,0 +1,39 @@
+Organized notes
+
+Theory of computability
+ Hodges, Andrew (2012). Alan Turing: The Enigma (The Centenary ed.). Princeton University Press. ISBN 978-0-691-15564-7.
+ Rabin, Michael O. (June 2012). Turing, Church, Gödel, Computability, Complexity and Randomization: A Personal View.
+ Donald Monk (1976). Mathematical Logic. Springer-Verlag. ISBN 9780387901701.
+ Hopcroft, John E. and Jeffrey D. Ullman (2006). Introduction to Automata Theory, Languages, and Computation. 3rd ed. Reading, MA: Addison-Wesley. ISBN 978-0-321-45536-9.
+ Chomsky, N. (1956). "Three models for the description of language". IEEE Transactions on Information Theory. 2 (3): 113–124. doi:10.1109/TIT.1956.1056813. S2CID 19519474.
+ Alan Turing (1937). "On computable numbers, with an application to the Entscheidungsproblem". Proceedings of the London Mathematical Society. 2 (42). IEEE: 230–265. doi:10.1112/plms/s2-42.1.230. S2CID 73712. Retrieved 6 January 2015.
+ Henry Gordon Rice (1953). "Classes of Recursively Enumerable Sets and Their Decision Problems". Transactions of the American Mathematical Society. 74 (2). American Mathematical Society: 358–366. doi:10.2307/1990888. JSTOR 1990888.
+ Martin Davis (2004). The undecidable: Basic papers on undecidable propositions, unsolvable problems and computable functions (Dover Ed). Dover Publications. ISBN 978-0486432281.
+
+Arithmetic Hierarchy
+ P. G. Hinman, Recursion-Theoretic Hierarchies (p.89), Perspectives in Logic, 1978. Springer-Verlag Berlin Heidelberg, ISBN 3-540-07904-1.
+Japaridze, Giorgie (1994), "The logic of arithmetical hierarchy", Annals of Pure and Applied Logic, 66 (2): 89–112, doi:10.1016/0168-0072(94)90063-9, Zbl 0804.03045.
+Moschovakis, Yiannis N. (1980), Descriptive Set Theory, Studies in Logic and the Foundations of Mathematics, vol. 100, North Holland, ISBN 0-444-70199-0, Zbl 0433.03025.
+Nies, André (2009), Computability and randomness, Oxford Logic Guides, vol. 51, Oxford: Oxford University Press, ISBN 978-0-19-923076-1, Zbl 1169.03034.
+Rogers, H. Jr. (1967), Theory of recursive functions and effective computability, Maidenhead: McGraw-Hill, Zbl 0183.01401.
+
+
+
+
+
+
+Outline
+
+
+
+Definitions
+Lemma - minor, proven proposition which is used to prove a larger statement. For that reason, it is also known as a "helping theorem" or an "auxiliary theorem"
+
+
+
+Articles
+
+
+
+Word-sense disambiguation
+
