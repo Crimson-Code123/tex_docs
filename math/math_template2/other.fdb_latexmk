@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1784520480.26451 "/home/zer0/projects/tex_docs/math/math_template2/other.tex" "other.pdf" "other" 1784520481.42394 0
-  "/home/zer0/projects/tex_docs/math/math_template2/other.tex" 1784520479.99587 772 e279f29f7a8c4b0b082109e9bdb229f8 ""
+["pdflatex"] 1784957140.02628 "/home/zer0/projects/tex_docs/math/math_template2/other.tex" "other.pdf" "other" 1784957141.14839 0
+  "/home/zer0/projects/tex_docs/math/math_template2/other.tex" 1784957140.00529 864 38e499039175774a5cfe807dad0ed1a8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1246382020 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -163,9 +163,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1783650352.33248 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1783650492 8221428 de57a9c6ccddccff9881e117279177e0 ""
   "/usr/local/texlive/2024/texmf.cnf" 1783650345.31623 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "other.aux" 1784520481.28887 418 76776b50af1a8f93fb7ba18f76e6cce0 "pdflatex"
-  "other.out" 1784520481.28987 121 2d42d47007fc61244585f494104d8115 "pdflatex"
-  "other.tex" 1784520479.99587 772 e279f29f7a8c4b0b082109e9bdb229f8 ""
+  "other.aux" 1784957141.03497 731 1120fc75aac674937cff7cd69e6c92a3 "pdflatex"
+  "other.out" 1784957141.03497 354 d8187108240594f5de4c939c0d6a177d "pdflatex"
+  "other.tex" 1784957140.00529 864 38e499039175774a5cfe807dad0ed1a8 ""
   (generated)
   "other.aux"
   "other.log"
