@@ -10,8 +10,6 @@ Alternation
  Parberry, Ian; Schnitger, Georg (1988-06-01). "Parallel computation with threshold functions". Journal of Computer and System Sciences. 36 (3): 278–302. doi:10.1016/0022-0000(88)90030-X. ISSN 0022-0000.
 
 
-
-
 Theory of computability
  Hodges, Andrew (2012). Alan Turing: The Enigma (The Centenary ed.). Princeton University Press. ISBN 978-0-691-15564-7.
  Rabin, Michael O. (June 2012). Turing, Church, Gödel, Computability, Complexity and Randomization: A Personal View.
@@ -29,18 +27,27 @@ Moschovakis, Yiannis N. (1980), Descriptive Set Theory, Studies in Logic and the
 Nies, André (2009), Computability and randomness, Oxford Logic Guides, vol. 51, Oxford: Oxford University Press, ISBN 978-0-19-923076-1, Zbl 1169.03034.
 Rogers, H. Jr. (1967), Theory of recursive functions and effective computability, Maidenhead: McGraw-Hill, Zbl 0183.01401.
 
+Speedup theorem
+Blum, Manuel (1967). "A Machine-Independent Theory of the Complexity of Recursive Functions" (PDF). Journal of the ACM. 14 (2): 322–336. doi:10.1145/321386.321395. S2CID 15710280.
+
+
+ Chang, R.; Kadin, J. (1996). "The Boolean Hierarchy and the Polynomial Hierarchy: A Closer Connection". SIAM J. Comput. 25 (2): 340–354. CiteSeerX 10.1.1.77.4186. doi:10.1137/S0097539790178069.
 
 
 
 
 
-
-Outline
-
+Entries
+The boolean hierarchy is the hierarchy of boolean combinations (intersection, union and complementation) of NP sets. Equivalently, the boolean hierarchy can be described as the class of boolean circuits over NP predicates
+In proof theory, the semantic tableau[1] (/tæˈbloʊ, ˈtæbloʊ/; plural: tableaux), also called an analytic tableau,[2] truth tree,[1] or simply tree,[2] is a decision procedure for sentential and related logics, and a proof procedure for formulae of first-order logic.[1] An analytic tableau is a tree structure computed for a logical formula, having at each node a subformula of the original formula to be proved or refuted. Computation constructs this tree and uses it to prove or refute the whole formula.[3] The tableau method can also determine the satisfiability of finite sets of formulas of various logics. It is the most popular proof procedure for modal logics.[4]
 
 
 Definitions
-Lemma - minor, proven proposition which is used to prove a larger statement. For that reason, it is also known as a "helping theorem" or an "auxiliary theorem"
+Reify - To give definite content and form to (concept or idea)
+
+
+Formally
+ Lemma - minor, proven proposition which is used to prove a larger statement. For that reason, it is also known as a "helping theorem" or an "auxiliary theorem"
 
 
 
@@ -49,4 +56,7 @@ Articles
 
 
 Word-sense disambiguation
+
+
+
 
