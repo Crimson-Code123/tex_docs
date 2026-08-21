@@ -1,8 +1,8 @@
-PWD /home/zer0/projects/tex_docs/math/math_template2
+PWD /home/zer0/github/tex_docs/math/math_template2
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/zer0/projects/tex_docs/math/math_template2/other.tex
+INPUT /home/zer0/github/tex_docs/math/math_template2/other.tex
 OUTPUT other.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amscls/amsart.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amscls/amsart.cls
