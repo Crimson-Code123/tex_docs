@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex other"] 0 "other.aux" "other.bbl" "other" 1786774568.58173 0
+["bibtex other"] 0 "other.aux" "other.bbl" "other" 1787573622.08654 0
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/amscls/amsalpha.bst" 1513722769 28675 71ba1b1ee8387ac88670b0ea0eb2399a ""
   "new.bib" 0 -1 0 ""
   "other.aux" 0 -1 0 "pdflatex"
@@ -7,8 +7,8 @@
   "other.bbl"
   "other.blg"
   (rewritten before read)
-["pdflatex"] 1786774566.1634 "/home/zer0/github/tex_docs/math/math_template2/other.tex" "other.pdf" "other" 1786774568.58247 0
-  "/home/zer0/github/tex_docs/math/math_template2/other.tex" 1786774565.64101 938 df3cb1a556c31b3b15bb2e8b70f37116 ""
+["pdflatex"] 1787573619.98975 "/home/zer0/github/tex_docs/math/math_template2/other.tex" "other.pdf" "other" 1787573622.08702 0
+  "/home/zer0/github/tex_docs/math/math_template2/other.tex" 1787573619.44616 938 df3cb1a556c31b3b15bb2e8b70f37116 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1246382020 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -171,10 +171,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1785783358.00615 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1785783455 8221432 8560125e60ae0b8120b26aa1fb5aab99 ""
   "/usr/local/texlive/2024/texmf.cnf" 1785783350.73382 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "other.aux" 1786774567.74101 876 5041528da4009c6dc809c44bfff29515 "pdflatex"
+  "other.aux" 1787573621.31403 876 5041528da4009c6dc809c44bfff29515 "pdflatex"
   "other.bbl" 0 -1 0 "bibtex other"
-  "other.out" 1786774567.74201 354 d8187108240594f5de4c939c0d6a177d "pdflatex"
-  "other.tex" 1786774565.64101 938 df3cb1a556c31b3b15bb2e8b70f37116 ""
+  "other.out" 1787573621.31503 354 d8187108240594f5de4c939c0d6a177d "pdflatex"
+  "other.tex" 1787573619.44616 938 df3cb1a556c31b3b15bb2e8b70f37116 ""
   (generated)
   "other.aux"
   "other.log"

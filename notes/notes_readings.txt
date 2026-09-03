@@ -34,6 +34,7 @@ Blum, Manuel (1967). "A Machine-Independent Theory of the Complexity of Recursiv
  Chang, R.; Kadin, J. (1996). "The Boolean Hierarchy and the Polynomial Hierarchy: A Closer Connection". SIAM J. Comput. 25 (2): 340–354. CiteSeerX 10.1.1.77.4186. doi:10.1137/S0097539790178069.
 
 
+check:  Dekel, Eliezer; Nassimi, David; Sahni, Sartaj (1981), "Parallel matrix and graph algorithms", SIAM Journal on Computing, 10 (4): 657–675, doi:10.1137/0210049, MR 0635424
 
 
 
